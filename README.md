@@ -8,4 +8,5 @@ In this SVM repository, I run both the classification and the regression model o
 I choose the **movie_classification.csv** for the Support Vector classifier model notebook.<br>
 ## SVR (Support Vector Regression): <br>
 I choose **movie_regression.csv** for the Support Vector Regression model notebook.<br><br>
-**Both the csv are the same but in movie_classification.csv there is one extra column to check whether the movie is oscar winning or not.**
+**Both the csv are the same but in movie_classification.csv there is one extra column to check whether the movie is oscar winning or not.**<br>
+**To increase the accuracy of the model I use** ***GridSearch*** **approach due to which model is not overfitted and gives the best results.**
